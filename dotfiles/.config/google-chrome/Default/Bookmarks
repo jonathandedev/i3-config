@@ -1,0 +1,197 @@
+{
+   "checksum": "581292496bdd505f77c0516ebea821aa",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13221868387003380",
+            "date_last_used": "0",
+            "guid": "fe5d7636-111f-43ec-923b-6424c06b45ac",
+            "id": "5",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13336764544141580",
+            "date_last_used": "0",
+            "guid": "5e259e69-26db-4389-b28e-2035ae2a1c87",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13336780157248432",
+            "date_last_used": "13336780191752542",
+            "guid": "145e5092-1638-49d6-8bbc-59659cb85444",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MTG API",
+            "type": "url",
+            "url": "https://docs.magicthegathering.io/"
+         }, {
+            "date_added": "13336780835241249",
+            "date_last_used": "0",
+            "guid": "e46544b5-9ae4-4dbe-89e0-f29dac256495",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OS Book",
+            "type": "url",
+            "url": "https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf"
+         }, {
+            "date_added": "13337814131334711",
+            "date_last_used": "0",
+            "guid": "b4812418-7730-4541-b697-2707970daa18",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to install a Windows 11 VM using LXD | Ubuntu",
+            "type": "url",
+            "url": "https://ubuntu.com/tutorials/how-to-install-a-windows-11-vm-using-lxd#2-prepare-your-windows-image"
+         }, {
+            "date_added": "13338416317569198",
+            "date_last_used": "0",
+            "guid": "ef092a62-0667-4d97-8717-d393b24821c1",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JavaScript Docs",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+         } ],
+         "date_added": "13341020184014212",
+         "date_last_used": "0",
+         "date_modified": "13338416317569198",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13316915840903387",
+               "date_last_used": "0",
+               "guid": "d33f0435-7020-456f-b913-d03851b4eac7",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Iptables Tutorial",
+               "type": "url",
+               "url": "https://www.hostinger.com/tutorials/iptables-tutorial"
+            }, {
+               "date_added": "13316984365747081",
+               "date_last_used": "0",
+               "guid": "b7136dd0-8b5f-4c59-abb7-9f0b6f89de48",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How To Install & Configure MEAN Stack On Ubuntu 20.04 | Atlantic.Net",
+               "type": "url",
+               "url": "https://www.atlantic.net/vps-hosting/how-to-install-configure-mean-stack-on-ubuntu-20-04/"
+            }, {
+               "date_added": "13317085367762587",
+               "date_last_used": "13328815728066407",
+               "guid": "0b255114-75c6-450a-a072-b5530384a4cd",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Get Started with MERN Stack",
+               "type": "url",
+               "url": "https://linuxhint.com/get-started-with-mern-stack/#:~:text=To%20get%20started%20with%20the,js%20application."
+            } ],
+            "date_added": "13328910645327489",
+            "date_last_used": "0",
+            "date_modified": "13328910645327489",
+            "guid": "575a2111-f3cd-4d2e-a740-3f8d1c5c7223",
+            "id": "11",
+            "name": "Server Setup",
+            "type": "folder"
+         }, {
+            "date_added": "13332167021028189",
+            "date_last_used": "0",
+            "guid": "3594ccd3-5a04-4b34-8a50-36b896f3402c",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Image Overlay Hover effects",
+            "type": "url",
+            "url": "https://codepen.io/kalle89/pen/Mzpqqx"
+         }, {
+            "date_added": "13329591795146610",
+            "date_last_used": "0",
+            "guid": "546e3f8d-2f18-4869-9db2-e039632863d5",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Workout Stuff",
+            "type": "url",
+            "url": "https://seannal.com/BodyTransformationBlueprint/bt-blueprint-members-238947/main-47893.html?item=1&cbreceipt=C3T5ACVD&time=1685117036&cbpop=59FB03BB&cbaffi=0&cname=MR+JONATHAN+D+EVANS&cemail=jonny.de%40icloud.com&ccountry=GB&czip=KY169BN&cbitems=1&cbskin=5970"
+         }, {
+            "date_added": "13332541921784667",
+            "date_last_used": "0",
+            "guid": "38140954-54d2-4f41-97df-80668ffeefcc",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Another menu concept",
+            "type": "url",
+            "url": "https://codepen.io/RSH87/pen/rmgYbo"
+         }, {
+            "date_added": "13339818817211614",
+            "date_last_used": "0",
+            "guid": "381112d6-876f-42ae-b1e4-3fe14ca5689b",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Automatically Change Color Scheme of Your Linux Terminal Based on Your Wallpaper",
+            "type": "url",
+            "url": "https://itsfoss.com/pywal/"
+         }, {
+            "date_added": "13339818821815453",
+            "date_last_used": "0",
+            "guid": "1340619a-fc7f-44f7-84fb-3df671fdc07d",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Customization · dylanaraps/pywal Wiki · GitHub",
+            "type": "url",
+            "url": "https://github.com/dylanaraps/pywal/wiki/Customization?ref=itsfoss.com"
+         } ],
+         "date_added": "13341020184014213",
+         "date_last_used": "0",
+         "date_modified": "13339818821815453",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341020184014215",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkAVcgRAAcGACEAVcgRAAcGADIYChYIAhG4i2oiAAcGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJqZlqIgAHBgARqZlqIgAHBgAp3jBrIgAHBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkA6oIcAAcGABEA6oIcAAcGACkhmGoiAAcGADCA1IvkgeCBA7oBAggBEgAqGGtsdVZoUC9Kdkg1TWszWDkxSHJXYUE9PUgDEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad0o3YVBleFQ4RG9pVHEyLzI2MnRFN3NVeXNZRjhuNVZEVXZnRGZPMFhPaWFyV3l2VWw2SU9HUG9UVG5udGoyTVFielRYejZ0eWVEc3pHbXljVVRFSUhEYmRvVWc9PRgAIAAoADDx/ePhgOCBAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqwCCAUSpwIKHHJFQnpaSnVoWWVOT2x2RWpiT2VyZUl1MEpkZz0SpgFaOkFEcXRBWnc2RmZyL2VoNXBnR05Jd0hWMVorYXpDb25pbURsYmVsbGlYL1pmNWJjWTdBMGhVazdhb3AvNURWeHR2S3dSWHhhWWRYME9NQWtmNGk1ZUxMdWdGQnZPZ0RKMlpraEVhaVB0anVmanlIaFhWMmMvZExkL0l0VjZOV1FsMVhPaFJFUEcyTEVUaUhoOWMxYjdLcWdNZWI1KzEweFRtZz09GAAgAigCMOr70uSA4IEDOLuluaD0LUCT6L2QsDFKHGU4Mm1XTUpGRE5WNTVVV3hJb2hZRTRvY0ZMbz1aHiIcSEJ2eUIyN3JWeWdmUTM5U0I2Sy9RSTNUSkM0PWUQMP/kEusBCAYS5gEKHEtYajNWMVVQYXZkTVh0a016dVp5eHFRWm9paz0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUE1oK0x4MVluT3JCb3B5VmJJMENzRUFnT2ptL2tVOFpQODBybnB4RzhXdXJIKzZCaFpDNmI4ZForSjNIZUI3UzBUamdER1E9PRgAIAMoAzDyppP2heCBAziNmZqjoDFAv4+SkbAxShwvcWkrRmpCL0JrWlgwaisvUHM5ZjBCTjRWbG89Wh4iHGxhVmh5N1NSa3Q3ZnBVNy9OYVJ1N1p5S2RmND1lXUePgxLsAQgQEucBChxORTFlZVAxV2RvMVBDTWxVTlVXbjFPaFNQcUE9EmZaOkFEcXRBWndiZ2xianNGR2NRTEZweTd2aU5hMlBPSWNlV05LMHBFTzE1Q0wrRko4MGp0bUxyQVhmaTRJODJIakJLbkV5SmVkYjhVR3N3UzRIUzV1U01xK1IzMUxEMXFDNnVnPT0YACAAKAAwg6+zvJTkgAM4yqv8xoUxQMqr/MaFMUocMUI5Z3BGcC9pTzhGeFlCVVZBRGVzODZhbFVFPVofIh3bSHdpQVE5RlMxRURsTjhwcDRqdUF1enU5V1RZPWVK7MdYEuwBCAgS5wEKHFlYOG03UndmSFd4TVIwTjU5ekV5TVY2dmtlVT0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUEVDMDBMNlJYWFFDL0czV2NKSnpMQlRtUHg4RjBXUlNDU3NIa2xEa3VGRmVCWFFFaFpWN1laOG9nSnM3WHBXVHdoNVZpQVE9PRgAIAIoAjDq+9LkgOCBAzipw/yqoDFAk+i9kLAxShw3NUhMYVZGV3ZJY1pMK1BSVkFYTDd6ZnNPeTA9Wh8iHdtORUtuck04dHpZSDFxalhRd0RhZHRuVXFvMnM9ZdRM6NAS7AEIChLnAQocYm1NdXJZL2k4c3dPY3N6MVBpTUtrOFFaOG13PRJmWjpBRHF0QVp3YmdsYmpzRkdjUUxGcHk3dmlOYTJQZ3FxYlpMZU0rbGFyOXhqVE1ZcWtsZktxdmo0aHZXVFRsWXY2bUt5RnVwd3NxM0VCNXY2UWFNM2VYdm9yZUhvZ0lXRHIyUT09GAAgAigCMOr70uSA4IEDOIG56ramMUCU6L2QsDFKHFBoeDNyVmhnQXY1aXRuSFY5RTlKOWg5ZmF2Zz1aHyId9mtpUnZ2QXpjSHcxdWJZUmJ0VmQweTBaSGU3WT1lbaCf9RLsAQgJEucBChxTc0UySno5K3ZacEFYYjQwTysrR05ySjhDWDg9EmZaOkFEcXRBWndiZ2xianNGR2NRTEZweTd2aU5hMlA0TDhqRUdURC9WT2tnTTAyVk9VZDVRVHlrVHp2TUwzczVTTTJrVUdGR0xTWXdXUkgzNlJJcWdNdHhCMlp0VFJhVWx0R093PT0YACACKAIw6vvS5IDggQM4h/XXl6QxQJTovZCwMUocWFpJMVdwKzdoWHNyOVgyeGwrczN2TzgvR0VnPVofIh3tSVVUMjhwS1FxcHBoSlI5c09vNFB6a28rTVdVPWWuyMz4EuwBCAcS5wEKHEVPRDVFMmk0SFF0cklmZytYaUNqVTU5VzBLbz0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUE5hb3RLcG5tVWRVRzFDaUhNek1wUGVyWllBSlZ3ZVdmN1dMeHJ4YTMrS203TnFwN2tJRVM0dENieXdEYjJaVVU5aU1kU2c9PRgAIAAoADCO/56xzeSAAzjAktOqoDFAwJLTqqAxShw0RVNnREFQdDFJeVdnWFM1OWdXaE1DUG9OaEU9Wh8iHbY3d0F4aTMrUkxRU0JoYXF3eW1ua3BNMXlFL3c9ZQAAAAAS6wEICxLmAQocWEtadXdKVjJsR09XQjdiR0QvSnBLWkl1ZlVFPRJmWjpBRHF0QVp3YmdsYmpzRkdjUUxGcHk3dmlOYTJQOVlFR21lYmxSNGVHWUc5M3dZaDlzNjFPVjNyL2hZTXJOZlZjeWxHQlhTV0Uxbmo4Si9wZE4yYnR6bFlwVytKU3dUWkNodz09GAAgACgAMKWIzriU5IADOM+gloKDMUDPoJaCgzFKHE1hUDQzWEVZMklvaUVhYzQvZ2JsRy9oUGgxWT1aHiIcbW52cldpUnI0YnFEQWhZbVRTOXhOVkI0NjRNPWUAAAAAEusBCAwS5gEKHDRWUmtFeGtDaks0cGJwMWo0QyticlRwd295WT0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUG9SeFpxY0QyUy8rWHFUZEtyV0hzaTF5M2h0WXZwdTFUMWNtVGdROUtmZ0JMa0J3bnZmKzcyOGVGaDZWazRhKzBmSzlyc3c9PRgAIAAoADDd5/v/yP/+AjiIv82q1jBAiL/NqtYwShxUdEJsZlM4ekF5MW9wTXo5MEdrNWtERXhOeXM9Wh4iHHB5aFFUazFSNkh0cTFUc0cvdHY3MGFhWnVqUT1lxVONJxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlkVm5VMXIxRERZbWZqV3lROXdyNEdUejc5YjRCQzhIMGt4d2lhYkxRdnBPNlk5Mi9yRHhTU1JEekliY3N2anJxY1V6VXgYACAAKAAw8f3j4YDggQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgOEucBChxHd0ZiWUVTSGxhNGcwTlJFeEtyVkJ5WWZkVE09EmZaOkFEcXRBWndiZ2xianNGR2NRTEZweTd2aU5hMlBPQTYwUUM5MllDVU45aE9Cc0ttSGc3QzZ3NW01R0lYRVA0N3E2VE44d3ZzR3dTOGRWcDhmRG5LakdUMUNJV24rSVFYV0tnPT0YACAAKAAw4o3Mgcn//gI41Mu4+9YwQNTLuPvWMEocQzBXZlR5VFdOaFgvcEtMekl5dnhTQnJQc3FVPVofIh3cKzhhNGVLZXZwT3pKK0ovdVB0NjZiMFNTWmRnPWU5YHjXEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaelo0Um1LcWh2dzFQREpIdmN3cTFPSlNmeXNPd0pFN0dLT2lveTV1UU9qcnpIeGpMNFp1ZWJNR2JDYmRxMVNUOEhBM2Zjbm1wMXJranFhbENUeXF4OE1vV0NqN1E9PRgAIAAoADDx/ePhgOCBAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCBES5wEKHFZWS3l6d0JEZ1BYODF4cnI5ZStLUGJJZ3lVST0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUFlHVEtlUzdUZTZYNjVjTUZ2NFk1dGpHOW1TK1NPSXBwdW56MEJmTlF3TGxhRWR4YWNwRWNSbGNSTmhWTkVPWDFybFltZXc9PRgAIAAoADDNt5/AlOSAAzj449nFkDFA+OPZxZAxShx0cm42Z1k5UXlmaGZFZ3hyV3NHYll6b1N0ejg9Wh8iHe1QTXpxakZjS1dmeGJhOGpiRzlmM0o4a1dzeEU9ZQBjk58S7AEIDRLnAQocQVdWdSthTmhLRWpuK1YrcllpRHNuekFiTnlBPRJmWjpBRHF0QVp3YmdsYmpzRkdjUUxGcHk3dmlOYTJQNXpPLzRkNXNjRUMwNElabkwwRExCRUM0d3JmRHNINGlrZUNBQWVSV0RmSVpmVE5SQnpWZkxDMkdNemhSRFk3TkExQllJUT09GAAgACgAMN3n+//I//4COLP1o8vWMECz9aPL1jBKHExQbkszUmxCZWhtNTUyKzlhWTNUcW5UM1N3dz1aHyIduGpxVkpERGFOaE93SmozSmw2dWNOaWVZSGZ1Yz1lybsZuhLsAQgTEucBChwyWm14TWZ3WjRBOURJYkNnclpUNkk4MTVMZDg9EmZaOkFEcXRBWndiZ2xianNGR2NRTEZweTd2aU5hMlBPeENRdWRpWENEMDhBb0k3VGJ0WFREWVpKVXMvcTU1UzZOdjh2TXVLeThHNDY2NG5qYVB3eHpDMnQxZnRHQWJIK0xNcWpRPT0YACAAKAAwh6v1jYW9gQM4t8HM06sxQLfBzNOrMUocNzRKY005em1wbjBJTzRWeGVBT0l4NEtFMElrPVofIh37QkJtclZRR2lzNlRjY09YSGZWQ3U3MDdrd3JrPWVdR4+DEuwBCA8S5wEKHEZRa1IwbjdFUEhoZ3F2aUtpblFjOGRBbVNXWT0SZlo6QURxdEFad2JnbGJqc0ZHY1FMRnB5N3ZpTmEyUHk4L3R1OVZHbVZCeHhNWEs5aysyWTNZK1dwZUFRZi9DeTBsaXgvdiszRHFGaTFGZ1hBM1NNRlhMT2I0b0VmVUZZS2R2Q3c9PRgAIAAoADCglMO6lOSAAzjk0/eSjzFA5NP3ko8xShxJWnk3cExYcHFnTTBMVmpyRGJySVBLcCtZc0U9Wh8iHbZUY2kzMmxpR1lnenVlRVFITVdQOXNvaFRKd2s9ZQBjk58S7AEIEhLnAQoccmp5aURjejhpbWpUcldyUnVXeVFjTnJNUzhrPRJmWjpBRHF0QVp3YmdsYmpzRkdjUUxGcHk3dmlOYTJQNUphUjdQYWpIc3p1ZjdlekM4SEw5YTc2R3ZxQXlqcWhpeWhTR21HVW1pcGFtckdiYVZXQU5LdHZJVDBhM2dlVHhNMUJsQT09GAAgACgAMNbH4oyFvYEDOLydzNOrMUC8nczTqzFKHFJtNkIxVHBmZU96ZnQ3b3FzNVRwTDJ0dFhrQT1aHyId9nVrN2J4cENFU1pKem9GNTRhSjN6NlE5OFFRVT1lJiTIATABOAA=",
+   "version": 1
+}

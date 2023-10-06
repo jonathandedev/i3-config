@@ -1,0 +1,50 @@
+2023-10-05 18:47:30.218 [info] Log level: Info
+2023-10-05 18:47:30.218 [info] Validating found git in: "git"
+2023-10-05 18:47:30.218 [info] Using git "2.42.0" from "git"
+2023-10-05 18:47:52.991 [info] Log level: Info
+2023-10-05 18:47:52.991 [info] Validating found git in: "git"
+2023-10-05 18:47:52.991 [info] Using git "2.42.0" from "git"
+2023-10-05 18:47:52.991 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-05 18:47:52.991 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:52.993 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-05 18:47:53.001 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-10-05 18:47:53.011 [info] Open repository: /home/jonathande/Downloads/dot-files-main/.oh-my-zsh
+2023-10-05 18:47:53.028 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-05 18:47:53.028 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.029 [info] > git config --get commit.template [11ms]
+2023-10-05 18:47:53.047 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-05 18:47:53.047 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.058 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-05 18:47:53.058 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.058 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-10-05 18:47:53.070 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-05 18:47:53.070 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.075 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-05 18:47:53.075 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.079 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-05 18:47:53.079 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.087 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-05 18:47:53.087 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.095 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-05 18:47:53.095 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.184 [info] > git status -z -uall [120ms]
+2023-10-05 18:47:53.194 [info] > git config --get commit.template [0ms]
+2023-10-05 18:47:53.198 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-05 18:47:53.227 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-05 18:47:53.227 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-05 18:47:53.232 [info] > git status -z -uall [31ms]
+2023-10-05 18:47:53.548 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-05 18:47:57.027 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-05 18:47:58.569 [info] > git show --textconv :oh-my-zsh.sh [6ms]
+2023-10-05 18:47:58.570 [info] > git ls-files --stage -- /home/jonathande/Downloads/dot-files-main/.oh-my-zsh/oh-my-zsh.sh [1ms]
+2023-10-05 18:47:58.575 [info] > git cat-file -s 137ca3b6fc149ea696f6551f6000af749ad6656f [1ms]

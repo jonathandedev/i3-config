@@ -1,0 +1,24 @@
+2023-10-05 18:34:37.418 [info] update#setState idle
+2023-10-05 18:35:03.404 [error] update#isLatestVersion(): failed to check for updates
+2023-10-05 18:35:03.404 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49830)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-10-05 18:35:07.421 [info] update#setState checking for updates
+2023-10-05 18:35:30.762 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49830)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-10-05 18:35:30.763 [info] update#setState idle
+2023-10-05 18:47:22.617 [info] Extension host with pid 2070 exited with code: 0, signal: unknown.
+2023-10-05 18:47:41.836 [info] Extension host with pid 3924 exited with code: 0, signal: unknown.
+2023-10-05 18:47:41.849 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 3923]: crashed with code 15 and reason 'killed'
+2023-10-05 18:47:52.273 [info] Extension host with pid 4084 exited with code: 0, signal: unknown.
+2023-10-05 18:56:00.038 [error] [UtilityProcess type: shared-process, pid: 2080]: crashed with code 15 and reason 'killed'
+2023-10-05 18:56:00.040 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-10-05 18:56:00.041 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 4213]: crashed with code 15 and reason 'killed'
+2023-10-05 18:56:00.057 [info] Extension host with pid 4133 exited with code: 15, signal: unknown.
+2023-10-05 18:56:00.057 [error] [UtilityProcess id: 4, type: extensionHost, pid: 4133]: crashed with code 15 and reason 'killed'
+2023-10-05 18:56:00.060 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2023-10-05 18:56:00.071 [info] Extension host with pid 4212 exited with code: 0, signal: unknown.
+2023-10-05 18:56:00.071 [error] [UtilityProcess id: 5, type: extensionHost, pid: 4212]: crashed with code 15 and reason 'killed'
+2023-10-05 18:56:00.072 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4124]: crashed with code 15 and reason 'killed'
+2023-10-05 18:56:00.073 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

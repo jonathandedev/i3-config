@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Wal Bordered",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "workbench.startupEditor": "none",
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[haskell]": {},
+    "explorer.sortOrder": "type",
+    "editor.detectIndentation": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "haskell.hlint.executablePath": "/home/jonathane/.cabal/bin/hlint",
+    "haskell.manageHLS": "GHCup",
+    "haskell.ghcupExecutablePath": "/home/jonathane/.ghcup/bin/ghcup",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+    "editor.fontSize": 12,
+    "debug.console.fontSize": 12,
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "scm.inputFontSize": 12,
+    "chat.editor.fontSize": 12,
+    "git.openRepositoryInParentFolders": "always"
+}

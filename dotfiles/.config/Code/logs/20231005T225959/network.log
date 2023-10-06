@@ -1,0 +1,3 @@
+2023-10-05 23:01:53.625 [error] electron #186: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 23:01:53.626 [error] electron #184: https://redhat.gallery.vsassets.io/_apis/public/gallery/publisher/redhat/extension/java/1.23.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?targetPlatform=linux-x64&install=true - error GET net::ERR_NAME_NOT_RESOLVED
+2023-10-05 23:01:53.626 [error] electron #185: https://visualstudioexptteam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/1.2.30/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true - error GET net::ERR_NAME_NOT_RESOLVED

@@ -1,0 +1,172 @@
+2023-10-05 23:00:02.040 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-10-05 23:00:02.040 [info] Auto Sync is disabled.
+2023-10-05 23:00:35.077 [info] Sync started.
+2023-10-05 23:00:35.420 [info] Did reset the local sync state.
+2023-10-05 23:00:35.425 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.426 [info] Settings: Last sync data state does not exist.
+2023-10-05 23:00:35.485 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.486 [info] Settings: Last sync data state does not exist.
+2023-10-05 23:00:35.588 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.588 [info] Keybindings: Last sync data state does not exist.
+2023-10-05 23:00:35.646 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.647 [info] Snippets: Last sync data state does not exist.
+2023-10-05 23:00:35.675 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.676 [info] GlobalState: Last sync data state does not exist.
+2023-10-05 23:00:35.731 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.731 [info] Tasks: Last sync data state does not exist.
+2023-10-05 23:00:35.801 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.801 [info] GlobalState: Last sync data state does not exist.
+2023-10-05 23:00:35.909 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:35.909 [info] Extensions: Last sync data state does not exist.
+2023-10-05 23:00:36.094 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:36.094 [info] Profiles: Last sync data state does not exist.
+2023-10-05 23:00:36.182 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:36.182 [info] Profiles: Last sync data state does not exist.
+2023-10-05 23:00:36.199 [info] Settings: Updated local settings
+2023-10-05 23:00:36.203 [info] Settings: Updated last synchronized settings
+2023-10-05 23:00:36.204 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:00:36.207 [info] Keybindings: Updated last synchronized keybindings
+2023-10-05 23:00:36.208 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:00:36.210 [info] Snippets: Updated last synchronized snippets
+2023-10-05 23:00:36.211 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:00:36.214 [info] Tasks: Updated last synchronized tasks
+2023-10-05 23:00:36.225 [info] GlobalState: Updated global state ["nps/lastSessionDate","nps/sessionCount","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount","~remote.forwardedPortsContainer.hidden","workbench.view.extensions.state.hidden","workbench.view.sync.state.hidden","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensInspect.state.hidden","workbench.scm.views.state.hidden","workbench.view.extension.makefile__viewContainer.state.hidden","workbench.view.remote.state.hidden","workbench.welcomePage.walkthroughMetadata","remote.explorerType","workbench.view.debug.state.hidden","workbench.view.extension.gitlensPanel.state.hidden","workbench.view.extension.test.state.hidden","java.2.editedCount","java.2.editedDate","commandPalette.mru.cache","commandPalette.mru.counter","nps/isCandidate","nps/skipVersion","workbench.activity.pinnedViewlets2","workbench.panel.pinnedPanels","memento/gettingStartedService","colorThemeData","ces/skipSurvey","workbench.explorer.views.state.hidden","workbench.statusbar.hidden"]
+2023-10-05 23:00:36.225 [info] GlobalState: Updated local ui state
+2023-10-05 23:00:36.227 [info] GlobalState: Updated last synchronized ui state
+2023-10-05 23:00:37.654 [info] Extensions: Disabled extension vscodevim.vim 1.26.0
+2023-10-05 23:00:37.916 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:37.917 [info] Extensions: Last sync data state does not exist.
+2023-10-05 23:00:38.553 [info] Extensions: Disabled extension github.copilot 1.122.462
+2023-10-05 23:00:38.904 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:00:38.905 [info] Extensions: Last sync data state does not exist.
+2023-10-05 23:01:15.023 [info] Sync started.
+2023-10-05 23:01:15.158 [info] Did reset the local sync state.
+2023-10-05 23:01:15.164 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.165 [info] Settings: Last sync data state does not exist.
+2023-10-05 23:01:15.292 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.292 [info] Settings: Last sync data state does not exist.
+2023-10-05 23:01:15.395 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.395 [info] Keybindings: Last sync data state does not exist.
+2023-10-05 23:01:15.406 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.406 [info] GlobalState: Last sync data state does not exist.
+2023-10-05 23:01:15.509 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.510 [info] Snippets: Last sync data state does not exist.
+2023-10-05 23:01:15.628 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.628 [info] Tasks: Last sync data state does not exist.
+2023-10-05 23:01:15.725 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.725 [info] GlobalState: Last sync data state does not exist.
+2023-10-05 23:01:15.848 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:15.848 [info] Extensions: Last sync data state does not exist.
+2023-10-05 23:01:16.017 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:16.017 [info] Profiles: Last sync data state does not exist.
+2023-10-05 23:01:16.125 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:16.126 [info] GlobalState: Last sync data state does not exist.
+2023-10-05 23:01:16.212 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-10-05 23:01:16.212 [info] Profiles: Last sync data state does not exist.
+2023-10-05 23:01:16.214 [info] Settings: No changes found during synchronizing settings.
+2023-10-05 23:01:16.226 [info] Settings: Updated last synchronized settings
+2023-10-05 23:01:16.226 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:01:16.229 [info] Keybindings: Updated last synchronized keybindings
+2023-10-05 23:01:16.230 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:01:16.232 [info] Snippets: Updated last synchronized snippets
+2023-10-05 23:01:16.233 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:01:16.235 [info] Tasks: Updated last synchronized tasks
+2023-10-05 23:01:16.241 [info] GlobalState: Updated global state ["workbench.activity.pinnedViewlets2"]
+2023-10-05 23:01:16.241 [info] GlobalState: Updated local ui state
+2023-10-05 23:01:16.242 [info] GlobalState: Updated last synchronized ui state
+2023-10-05 23:01:53.651 [info] Extensions: Skipped synchronizing extension Language Support for Java(TM) by Red Hat
+2023-10-05 23:01:53.651 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at w.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:137603)
+    at async W.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:19882)
+    at async W.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:17926)
+2023-10-05 23:01:53.651 [info] Extensions: Skipped synchronizing extension IntelliCode
+2023-10-05 23:01:53.651 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at w.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:137603)
+    at async W.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:19882)
+    at async W.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:17926)
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. ms-vscode-remote.remote-ssh-edit 0.86.0
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. aaron-bond.better-comments 3.0.2
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. 13xforever.language-x86-64-assembly 3.1.4
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. dlasagno.wal-theme 1.2.0
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. ecmel.vscode-html-css 1.13.1
+2023-10-05 23:01:53.655 [info] Extensions: Installed extension. pkief.material-icon-theme 4.30.1
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode-remote.remote-ssh 0.106.4
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. davidanson.vscode-markdownlint 0.52.0
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. vscodevim.vim 1.26.0
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode.cpptools-extension-pack 1.3.0
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode.cpptools-themes 2.0.0
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode.remote-explorer 0.4.1
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. vscjava.vscode-java-dependency 0.23.1
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode.cmake-tools 1.15.31
+2023-10-05 23:01:53.656 [info] Extensions: Installed extension. ms-vscode.makefile-tools 0.7.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. eamodio.gitlens 14.3.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. vscjava.vscode-java-pack 0.25.14
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. vscjava.vscode-java-test 0.40.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. tomoki1207.pdf 1.2.2
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.54.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. esbenp.prettier-vscode 10.1.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. visualstudioexptteam.intellicode-api-usage-examples 0.2.8
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. vscjava.vscode-maven 0.42.0
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. github.copilot 1.122.462
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. twxs.cmake 0.0.17
+2023-10-05 23:01:53.657 [info] Extensions: Installed extension. ms-vscode.cpptools 1.17.5
+2023-10-05 23:01:53.657 [info] Extensions: Skipped synchronizing extension Language Support for Java(TM) by Red Hat
+2023-10-05 23:01:53.657 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at w.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:137603)
+    at async W.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:19882)
+    at async W.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:17926)
+2023-10-05 23:01:53.657 [info] Extensions: Skipped synchronizing extension IntelliCode
+2023-10-05 23:01:53.657 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at w.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:137603)
+    at async W.x (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:19882)
+    at async W.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:17926)
+2023-10-05 23:01:53.675 [info] Extensions: Updated last synchronized extensions. Skipped: ["redhat.java","visualstudioexptteam.vscodeintellicode"].
+2023-10-05 23:01:53.677 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:01:53.677 [info] Extensions: Updated last synchronized extensions. Skipped: ["redhat.java","visualstudioexptteam.vscodeintellicode"].
+2023-10-05 23:01:53.678 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:01:53.680 [info] Profiles: Updated last synchronized profiles.
+2023-10-05 23:01:53.681 [info] Sync done. Took 38658ms
+2023-10-05 23:01:53.682 [info] Profiles: Updated last synchronized profiles.
+2023-10-05 23:01:53.683 [info] Sync done. Took 78606ms
+2023-10-05 23:01:53.688 [info] Auto Sync: Triggered by Interval
+2023-10-05 23:01:53.689 [info] Sync started.
+2023-10-05 23:01:54.078 [info] Settings: No changes found during synchronizing settings.
+2023-10-05 23:01:54.081 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:01:54.085 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:01:54.087 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:01:54.090 [info] GlobalState: No changes found during synchronizing ui state.
+2023-10-05 23:01:54.176 [info] Extensions: No changes found during synchronizing extensions.
+2023-10-05 23:01:54.177 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:01:54.179 [info] Sync done. Took 490ms
+2023-10-05 23:01:56.828 [info] Auto Sync: Triggered by Activity
+2023-10-05 23:01:56.828 [info] Sync started.
+2023-10-05 23:01:56.883 [info] Settings: No changes found during synchronizing settings.
+2023-10-05 23:01:56.885 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:01:56.887 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:01:56.889 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:01:57.309 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels,colorThemeData,workbench.scm.views.state.hidden.
+2023-10-05 23:01:57.321 [info] GlobalState: Updated last synchronized ui state
+2023-10-05 23:01:57.372 [info] Extensions: No changes found during synchronizing extensions.
+2023-10-05 23:01:57.374 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:01:57.375 [info] Sync done. Took 547ms
+2023-10-05 23:02:02.404 [info] Auto Sync: Triggered by Activity
+2023-10-05 23:02:02.404 [info] Sync started.
+2023-10-05 23:02:02.445 [info] Settings: No changes found during synchronizing settings.
+2023-10-05 23:02:02.448 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:02:02.450 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:02:02.452 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:02:03.056 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2023-10-05 23:02:03.070 [info] GlobalState: Updated last synchronized ui state
+2023-10-05 23:02:03.113 [info] Extensions: No changes found during synchronizing extensions.
+2023-10-05 23:02:03.114 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:02:03.115 [info] Sync done. Took 710ms
+2023-10-05 23:02:19.550 [info] Auto Sync: Triggered by Activity
+2023-10-05 23:02:19.550 [info] Sync started.
+2023-10-05 23:02:19.612 [info] Settings: No changes found during synchronizing settings.
+2023-10-05 23:02:19.620 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-10-05 23:02:19.622 [info] Snippets: No changes found during synchronizing snippets.
+2023-10-05 23:02:19.625 [info] Tasks: No changes found during synchronizing tasks.
+2023-10-05 23:02:19.627 [info] GlobalState: No changes found during synchronizing ui state.
+2023-10-05 23:02:19.680 [info] Extensions: No changes found during synchronizing extensions.
+2023-10-05 23:02:19.681 [info] Profiles: No changes found during synchronizing profiles.
+2023-10-05 23:02:19.682 [info] Sync done. Took 132ms

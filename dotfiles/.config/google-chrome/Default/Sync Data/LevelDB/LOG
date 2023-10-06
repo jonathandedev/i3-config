@@ -1,0 +1,27 @@
+2023/10/05-23:03:26.942 148d Reusing MANIFEST /home/jonathande/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/10/05-23:03:26.942 148d Recovering log #8
+2023/10/05-23:03:26.943 148d Reusing old log /home/jonathande/.config/google-chrome/Default/Sync Data/LevelDB/000008.log 
+2023/10/05-23:11:30.636 147d Level-0 table #12: started
+2023/10/05-23:11:30.639 147d Level-0 table #12: 126836 bytes OK
+2023/10/05-23:11:30.640 147d Delete type=0 #8
+2023/10/05-23:26:51.871 147d Level-0 table #14: started
+2023/10/05-23:26:51.882 147d Level-0 table #14: 129214 bytes OK
+2023/10/05-23:26:51.884 147d Delete type=0 #11
+2023/10/05-23:36:46.772 147c Level-0 table #16: started
+2023/10/05-23:36:46.786 147c Level-0 table #16: 131029 bytes OK
+2023/10/05-23:36:46.788 147c Delete type=0 #13
+2023/10/05-23:36:46.788 147d Compacting 4@0 + 1@1 files
+2023/10/05-23:36:46.790 147d Generated table #17@0: 62 keys, 19932 bytes
+2023/10/05-23:36:46.790 147d Compacted 4@0 + 1@1 files => 19932 bytes
+2023/10/05-23:36:46.791 147d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/05-23:36:46.791 147d Delete type=2 #16
+2023/10/05-23:36:46.791 147d Delete type=2 #9
+2023/10/05-23:36:46.791 147d Delete type=2 #12
+2023/10/05-23:36:46.791 147d Delete type=2 #14
+2023/10/05-23:36:46.791 147d Delete type=2 #7
+2023/10/05-23:58:05.063 1480 Level-0 table #19: started
+2023/10/05-23:58:05.066 1480 Level-0 table #19: 137012 bytes OK
+2023/10/05-23:58:05.068 1480 Delete type=0 #15
+2023/10/06-00:35:18.053 1480 Level-0 table #21: started
+2023/10/06-00:35:18.066 1480 Level-0 table #21: 120665 bytes OK
+2023/10/06-00:35:18.068 1480 Delete type=0 #18

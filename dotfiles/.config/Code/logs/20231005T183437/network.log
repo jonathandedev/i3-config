@@ -1,0 +1,11 @@
+2023-10-05 18:35:03.402 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:03.404 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/e7e037083ff4455cf320e344325dacb480062c3c - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:27.722 [error] electron #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:27.723 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:30.762 [error] electron #6: https://update.code.visualstudio.com/api/update/linux-x64/stable/e7e037083ff4455cf320e344325dacb480062c3c - error undefined net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:55.082 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:35:55.083 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:36:19.402 [error] electron #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:37:01.962 [error] electron #10: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:37:29.322 [error] electron #11: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2023-10-05 18:51:09.376 [error] electron #34: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

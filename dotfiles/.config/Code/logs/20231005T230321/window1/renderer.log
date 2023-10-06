@@ -1,0 +1,11 @@
+2023-10-05 23:03:22.717 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-05 23:03:22.728 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'terminalContextMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-05 23:03:22.777 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/jonathande/.config/polybar/config.ini","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-05 23:03:23.337 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-10-05 23:03:25.895 [info] [perf] Render performance baseline is 53ms
+2023-10-05 23:04:26.674 [info] Settings Sync: Updating due to change in sessions
+2023-10-05 23:04:26.675 [info] Settings Sync: Updated current session b274130f6ecafc63
+2023-10-05 23:07:25.794 [info] Settings Sync: Reset current session
+2023-10-05 23:07:25.795 [info] Settings Sync: Updating due to change in sessions
+2023-10-05 23:07:33.552 [info] Settings Sync: Updating due to change in sessions
+2023-10-05 23:07:33.599 [info] Settings Sync: Updated current session 6d115775e9ceb03a

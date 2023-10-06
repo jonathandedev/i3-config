@@ -1,0 +1,6 @@
+2023-10-05 00:15:05.367 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-05 00:15:05.376 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'terminalContextMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-05 00:15:05.403 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/jonathande/Downloads/dot-files-main/i3/config","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-05 00:15:05.760 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jonathande/.vscode/extensions
+2023-10-05 00:15:05.921 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jonathande/.vscode/extensions
+2023-10-05 00:15:08.503 [info] [perf] Render performance baseline is 31ms
